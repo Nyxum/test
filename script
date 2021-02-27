@@ -1,0 +1,400 @@
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
+local function callback(Text)
+	if Text == "Button1 text" then
+		print ("Ok vou parar")
+	elseif Text == ("Não vou parar") then
+		print ("Answer2")
+	end
+end
+
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+	Title = "GG seu gay";
+	Text = "E para de usar script tbm";
+	Icon = "";
+	Duration = 5;
+	Button1 = "Ok vou Parar";
+	Button2 = "Não vou parar";
+	Callback = NotificationBindable;
+})
